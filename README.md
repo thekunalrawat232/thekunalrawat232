@@ -1,7 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsM...))]
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+
+
 <h1 align="center">Hi 👋, I'm Kunal Rawat</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring ML/AI Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif">
+
 
 - 🔭 I’m currently working on **Car Price Prediction Project**
 
