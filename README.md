@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kunalrawat232@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zSA_b9r3PUK3vMoY5hp5KNZ3Xam4w9OA/view?usp=drive_link](https://drive.google.com/file/d/1zSA_b9r3PUK3vMoY5hp5KNZ3Xam4w9OA/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zSA_b9r3PUK3vMoY5hp5KNZ3Xam4w9OA/view?usp=drive_link)
 
 - ⚡ Fun fact **I’m fascinated by the potential of AI and can’t wait to contribute to the field—one small project at a time!**
 
