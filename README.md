@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif">
 
 
-- 🔭 I’m currently working on **Car Price Prediction Project**
+- 🔭 I’m currently working on **Projects and Placement**
 
 - 🌱 I’m currently learning **intro to Deep Learning**
 
